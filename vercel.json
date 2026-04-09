@@ -1,0 +1,15 @@
+{
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/readwiseAI/app/api/index.py" },
+    { "source": "/(.*)", "destination": "/readwiseAI-frontend/dist/$1" }
+  ],
+  "builds": [
+    { "src": "/readwiseAI/api/index.py", "use": "@vercel/python" },
+    { "src": "/readwiseAI-frontend/package.json", "use": "@vercel/next" }
+  ],
+   "functions": {
+    "readwiseAI/app/api/index.py": {
+      "excludeFiles": "{tests/**,__tests__/**,**/*.test.py,data/corpus/raw_articles/**}"
+    }
+  }
+}

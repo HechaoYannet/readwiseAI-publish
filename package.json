@@ -1,0 +1,7 @@
+{
+  "name": "readwise-ai",
+  "scripts": {
+    "dev": "cd readwiseAI-frontend && npm run dev & cd readwiseAI && uvicorn app.main:app --reload",
+    "build": "cd readwiseAI-frontend && npm run build"
+  }
+}
