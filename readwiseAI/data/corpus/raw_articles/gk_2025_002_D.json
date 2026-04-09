@@ -1,0 +1,147 @@
+{
+  "id": "gk_2025_002_D",
+  "source": "2025全国II卷",
+  "topic": "环保与创新",
+  "type": "真题",
+  "difficulty": "L3",
+  "genre": "argumentative",
+  "word_count": 335,
+  "title": "wastED: A Restaurant That Serves Food That Would Otherwise Be Thrown Away",
+  "section": "D",
+  "content": "Does your soul die a little every time you throw away unused food? Mine does. Maybe that feeling comes from growing up in South Africa, where the phrase \"there are children starving in Africa\" was more of an uncomfortable reminder of fact than a prayer at dinner time.\n\nFood waste is a growing concern in the restaurant, supermarket, and supply chain industries. From technological solutions to educational campaigns, food producers and sellers are looking for ways to use more of what we're already growing. But last month, one popular New York City restaurant tried a different way: It changed its menu to exclusively (专门) offer food that would otherwise be thrown away.\n\nFor two weeks in March, Greenwich Village's Blue Hill restaurant was renamed wastED, and served items like fried skate cartilage, a juice pulp burger, and a dumpster diver's vegetable salad. Each dish was tailor-made to raise awareness regarding food waste.\n\nA study by the Food Waste Alliance determined that the average restaurant generates 33 pounds of food waste for every $1,000 in revenue (收入), and of that waste only 15.7% is donated or recycled. Up to 84.3% is simply thrown out. Restaurants like Silo in the UK have experimented with zero-waste systems, but wastED took the concept to its logical conclusion.\n\nIt should be noted that none of the items on wastED's menu was technically made from garbage. Instead, all the ingredients (配料) used were examples of meat cuts and produce that most restaurants would never consider serving. Things like kale ribs, fish collars, rejected sweet potatoes, and cucumber butts were all re-appropriated and, with the help of a number of good chefs, turned into excellent cuisine.\n\nThough wastED received enthusiastic reviews, it was designed from the start as a short-lived experiment; Blue Hill has since returned to its regular menu. Nevertheless, it serves as a reminder that there are many ways to address problems of sustainability, and that you can make an amazing meal out of almost anything.",
+  "questions": [
+    {
+      "question_text": "What can be inferred about the author's early life?",
+      "options": {
+        "A": "He witnessed food shortage",
+        "B": "He enjoyed the local cuisine",
+        "C": "He donated food to Africans",
+        "D": "He helped to cook at home"
+      },
+      "correct_answer": "A",
+      "question_type": "inference",
+      "explanation": "作者提到在南非长大，'there are children starving in Africa'对他来说是一个令人不适的事实提醒，暗示他经历过或目睹过食物短缺。"
+    },
+    {
+      "question_text": "Why did Blue Hill carry out the experiment?",
+      "options": {
+        "A": "To customize dishes for guests",
+        "B": "To make the public aware of food waste",
+        "C": "To test a food processing method",
+        "D": "To improve the UK's zero-waste systems"
+      },
+      "correct_answer": "B",
+      "question_type": "detail",
+      "explanation": "文章明确指出：'Each dish was tailor-made to raise awareness regarding food waste.'"
+    },
+    {
+      "question_text": "What is paragraph 5 mainly about?",
+      "options": {
+        "A": "Why the ingredients were used",
+        "B": "Which dishes were best liked",
+        "C": "What the dishes were made of",
+        "D": "Where the ingredients were bought"
+      },
+      "correct_answer": "C",
+      "question_type": "main_idea",
+      "explanation": "第五段主要说明wastED菜单上的菜品使用的都是通常会被丢弃的食材，如kale ribs, fish collars等。"
+    },
+    {
+      "question_text": "What can we learn about wastED?",
+      "options": {
+        "A": "It has ended as planned",
+        "B": "It is creating new jobs",
+        "C": "It has regained popularity",
+        "D": "It is criticized by top chefs"
+      },
+      "correct_answer": "A",
+      "question_type": "detail",
+      "explanation": "文章指出：'it was designed from the start as a short-lived experiment; Blue Hill has since returned to its regular menu.'说明wastED按计划结束了。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "soul",
+      "pos": "n.",
+      "definition": "灵魂，心灵",
+      "cefr": "B1"
+    },
+    {
+      "word": "starve",
+      "pos": "v.",
+      "definition": "挨饿，饿死",
+      "cefr": "B1"
+    },
+    {
+      "word": "reminder",
+      "pos": "n.",
+      "definition": "提醒者，提醒物",
+      "cefr": "B2"
+    },
+    {
+      "word": "supply chain",
+      "pos": "n.",
+      "definition": "供应链",
+      "cefr": "B2"
+    },
+    {
+      "word": "cartilage",
+      "pos": "n.",
+      "definition": "软骨",
+      "cefr": "C1"
+    },
+    {
+      "word": "pulp",
+      "pos": "n.",
+      "definition": "果肉，纸浆",
+      "cefr": "B2"
+    },
+    {
+      "word": "dumpster",
+      "pos": "n.",
+      "definition": "大型垃圾箱",
+      "cefr": "C1"
+    },
+    {
+      "word": "kale",
+      "pos": "n.",
+      "definition": "羽衣甘蓝",
+      "cefr": "C1"
+    },
+    {
+      "word": "re-appropriated",
+      "pos": "v.",
+      "definition": "重新利用",
+      "cefr": "C2"
+    },
+    {
+      "word": "cuisine",
+      "pos": "n.",
+      "definition": "烹饪，菜肴",
+      "cefr": "B2"
+    },
+    {
+      "word": "sustainability",
+      "pos": "n.",
+      "definition": "可持续性",
+      "cefr": "B2"
+    }
+  ],
+  "complex_sentences": [
+    {
+      "sentence": "Maybe that feeling comes from growing up in South Africa, where the phrase \"there are children starving in Africa\" was more of an uncomfortable reminder of fact than a prayer at dinner time.",
+      "structure": "where引导非限制性定语从句，more...than比较结构",
+      "translation": "也许那种感觉来自在南非的成长经历，'非洲有孩子正在挨饿'这句话在餐桌上与其说是祈祷，不如说是一个令人不适的事实提醒。"
+    },
+    {
+      "sentence": "A study by the Food Waste Alliance determined that the average restaurant generates 33 pounds of food waste for every $1,000 in revenue, and of that waste only 15.7% is donated or recycled.",
+      "structure": "that引导宾语从句，并列句",
+      "translation": "食品垃圾联盟的一项研究确定，平均每家餐厅每收入1000美元就会产生33磅食物垃圾，而其中只有15.7%被捐赠或回收利用。"
+    },
+    {
+      "sentence": "It should be noted that none of the items on wastED's menu was technically made from garbage.",
+      "structure": "It作形式主语，that引导主语从句",
+      "translation": "需要注意的是，wastED菜单上的食物严格来说并非用垃圾制成。"
+    }
+  ]
+}

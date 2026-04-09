@@ -1,0 +1,129 @@
+{
+  "id": "gk_2025_001_A",
+  "source": "2025全国I卷",
+  "topic": "环境保护与可持续发展",
+  "type": "真题",
+  "difficulty": "L3",
+  "genre": "expository",
+  "word_count": 342,
+  "title": "The greening of planes, trains and automobiles",
+  "section": "A",
+  "content": "The greening of planes, trains and automobiles\n\nMoving goods and people around the world is responsible for a large part of global CO2 emissions (排放). As the world races to decarbonize everything, it faces particular problems with transportation --- which accounts for about a quarter of our energy-related greenhouse gas emissions. Here's the breakdown of the emissions in 2018 for different modes of transport.\n\n[The passage includes a chart showing: Road 74.5%, Shipping 10.6%, Aviation 11.6%, Rail 0.4%, Other 2.9%]\n\nThe fuels for transport need to be not just green, cheap and powerful, but also lightweight and safe enough to be carried around. Each mode of transport has its specific fuel needs. Much is still to be settled, but here are some of the solutions to get us going green.\n\nPLANES --- Synthetic hydrocarbons: The hardest sector to decarbonize is aviation. One long-term option for sustainable fuel for planes is to make hydrocarbons from recycled air.\n\nCARS --- Batteries: Batteries are energy-efficient and electric cars can plug into existing systems and services. New solid-state batteries will take a car further on a single charge.\n\nTRAINS --- Electricity: Some trains are already electrified through rails or wires; others can be made electric in pretty simple ways.\n\nTRUCKS --- Hydrogen: Hydrogen fuel cells are a lighter choice than batteries for trucks, but making green hydrogen is expensive.\n\nSHIPS --- Liquid ammonia: Liquid ammonia is easy to keep and transport, but it is hard to ignite (点燃) and requires an engine redesign.\n\nThis energy transition (变革) is global and the amount of renewable energy the world will need is \"a little bit mind-blowing,\" says mechanical engineer Keith Wipke at the National Renewable Energy Laboratory. It's estimated that the global demand for electricity could more than double by 2050. Fortunately, analyses suggest that renewables are up to the task. \"We need to speed up the development of green energy, and it will all get used,\" says Wipke.",
+  "questions": [
+    {
+      "question_text": "What percentage of global transport emissions did road vehicles account for in 2018?",
+      "options": {
+        "A": "11.6%",
+        "B": "45.1%",
+        "C": "74.5%",
+        "D": "86.1%"
+      },
+      "correct_answer": "C",
+      "question_type": "detail",
+      "explanation": "根据文章中的图表数据，公路运输（Road）排放量占全球交通排放的74.5%。"
+    },
+    {
+      "question_text": "Which mode of transport can go green comparatively easily?",
+      "options": {
+        "A": "Planes",
+        "B": "Trucks",
+        "C": "Trains",
+        "D": "Ships"
+      },
+      "correct_answer": "C",
+      "question_type": "detail",
+      "explanation": "文章提到'Some trains are already electrified through rails or wires; others can be made electric in pretty simple ways.'说明火车可以相对容易地实现绿色转型。"
+    },
+    {
+      "question_text": "What does Wipke suggest regarding energy transition?",
+      "options": {
+        "A": "Limiting fuel consumption",
+        "B": "Putting more effort into renewables",
+        "C": "Improving energy efficiency",
+        "D": "Making electricity more affordable"
+      },
+      "correct_answer": "B",
+      "question_type": "inference",
+      "explanation": "Wipke说：'We need to speed up the development of green energy, and it will all get used.'这表明他建议在可再生能源方面加大力度。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "decarbonize",
+      "pos": "v.",
+      "definition": "脱碳，使不再产生碳排放",
+      "cefr": "C1"
+    },
+    {
+      "word": "transportation",
+      "pos": "n.",
+      "definition": "交通运输",
+      "cefr": "B1"
+    },
+    {
+      "word": "breakdown",
+      "pos": "n.",
+      "definition": "分类明细，分解",
+      "cefr": "B2"
+    },
+    {
+      "word": "sustainable",
+      "pos": "adj.",
+      "definition": "可持续的",
+      "cefr": "B2"
+    },
+    {
+      "word": "hydrocarbon",
+      "pos": "n.",
+      "definition": "碳氢化合物",
+      "cefr": "C1"
+    },
+    {
+      "word": "electrify",
+      "pos": "v.",
+      "definition": "使电气化",
+      "cefr": "B2"
+    },
+    {
+      "word": "ammonia",
+      "pos": "n.",
+      "definition": "氨，氨水",
+      "cefr": "C1"
+    },
+    {
+      "word": "ignite",
+      "pos": "v.",
+      "definition": "点燃，燃烧",
+      "cefr": "B2"
+    },
+    {
+      "word": "renewable",
+      "pos": "adj.",
+      "definition": "可再生的",
+      "cefr": "B2"
+    },
+    {
+      "word": "mind-blowing",
+      "pos": "adj.",
+      "definition": "令人极为震惊的",
+      "cefr": "C1"
+    }
+  ],
+  "complex_sentences": [
+    {
+      "sentence": "Moving goods and people around the world is responsible for a large part of global CO2 emissions (排放).",
+      "structure": "动名词短语作主语，be responsible for作谓语",
+      "translation": "在全球范围内运送货物和人员是全球二氧化碳排放的主要原因之一。"
+    },
+    {
+      "sentence": "The fuels for transport need to be not just green, cheap and powerful, but also lightweight and safe enough to be carried around.",
+      "structure": "need to be + not just...but also...连接的多个形容词作表语",
+      "translation": "交通燃料不仅需要绿色、便宜和强劲，还需要足够轻便和安全，以便随身携带。"
+    },
+    {
+      "sentence": "It's estimated that the global demand for electricity could more than double by 2050.",
+      "structure": "It作形式主语，that引导主语从句",
+      "translation": "据估计，到2050年，全球电力需求可能翻一番以上。"
+    }
+  ]
+}

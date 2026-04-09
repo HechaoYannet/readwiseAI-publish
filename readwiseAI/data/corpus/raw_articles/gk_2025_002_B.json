@@ -1,0 +1,141 @@
+{
+  "id": "gk_2025_002_B",
+  "source": "2025全国II卷",
+  "topic": "教育与爱心关怀",
+  "type": "真题",
+  "difficulty": "L3",
+  "genre": "narrative",
+  "word_count": 312,
+  "title": "Hospital Teacher",
+  "section": "B",
+  "content": "Kathy Ho teaches high school inside Lucile Packard Children's Hospital Stanford (LPCH). \"Sometimes I don't like saying that I'm a teacher,\" says Ho. \"People get in their minds an idea of what teachers do, but that's not really what it is here.\"\n\n\"Here\" is room 386, where each year, about 500 LPCH patients also become students. The hospital school is free of parents, doctors, and medical procedures. It's a place of learning. About half of Ho's students stay for a week or less; others are there for more than a year. Most of Ho's students will recover, which means that preparing them to return to school is an increasingly important component of care.\n\nStill, in room 386, academics don't come first. Physical health and mental health are the priority. \"If you're scared about something and thinking only about that, there's no way you're going to be able to learn,\" Ho says. \"I'm a coach, an adviser, and a comforter, and that's what it means to be a hospital teacher.\"\n\nThere are up to 30 students at any given time in Ho's class. She generally works with their regular teachers to get lessons and tests being used at their home schools. Some teachers don't give the kids any assignments; they express sympathy instead. \"I feel like it is a disservice to the kids,\" Ho says. \"They think their teachers don't care about their schoolwork.\"\n\nHo recognizes the psychological benefit of helping kids keep up with their peers (同龄人) outside the hospital. \"I actually think the medicine is only a small piece for some problems,\" says Julie Good, director of pain management services at LPCH. \"It's about problem-solving around what it means to have a full life. Those kids have dreams. School can keep those dreams alive by giving kids a way to learn and grow.\"",
+  "questions": [
+    {
+      "question_text": "Who does Ho teach at LPCH?",
+      "options": {
+        "A": "Sick children",
+        "B": "Young nurses",
+        "C": "Medical students",
+        "D": "Patients' parents"
+      },
+      "correct_answer": "A",
+      "question_type": "detail",
+      "explanation": "文章明确指出：'about 500 LPCH patients also become students'，Ho教授的对象是生病的儿童患者。"
+    },
+    {
+      "question_text": "What is a characteristic of Ho's job?",
+      "options": {
+        "A": "Prioritizing academics",
+        "B": "Encouraging innovation",
+        "C": "Treating various diseases",
+        "D": "Playing multiple roles"
+      },
+      "correct_answer": "D",
+      "question_type": "detail",
+      "explanation": "Ho说：'I'm a coach, an adviser, and a comforter'，说明她的工作扮演多重角色。"
+    },
+    {
+      "question_text": "What does the underlined word \"it\" refer to in paragraph 4?",
+      "options": {
+        "A": "Offering regular lessons",
+        "B": "Paying extra attention",
+        "C": "Assigning no schoolwork",
+        "D": "Showing no sympathy"
+      },
+      "correct_answer": "C",
+      "question_type": "vocabulary",
+      "explanation": "根据上下文，'it'指的是一些老师不给孩子们布置作业而是表达同情的行为。"
+    },
+    {
+      "question_text": "How does the hospital school benefit the students according to Good?",
+      "options": {
+        "A": "It eases peer pressure",
+        "B": "It helps them live in hope",
+        "C": "It frees them from aches",
+        "D": "It entertains them with stories"
+      },
+      "correct_answer": "B",
+      "question_type": "inference",
+      "explanation": "Good说：'Those kids have dreams. School can keep those dreams alive'，说明学校帮助学生保持希望和梦想。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "patient",
+      "pos": "n.",
+      "definition": "病人，患者",
+      "cefr": "B1"
+    },
+    {
+      "word": "component",
+      "pos": "n.",
+      "definition": "组成部分，成分",
+      "cefr": "B2"
+    },
+    {
+      "word": "priority",
+      "pos": "n.",
+      "definition": "优先事项，优先级",
+      "cefr": "B2"
+    },
+    {
+      "word": "coach",
+      "pos": "n.",
+      "definition": "教练，指导者",
+      "cefr": "B1"
+    },
+    {
+      "word": "adviser",
+      "pos": "n.",
+      "definition": "顾问，劝告者",
+      "cefr": "B2"
+    },
+    {
+      "word": "comforter",
+      "pos": "n.",
+      "definition": "安慰者",
+      "cefr": "C1"
+    },
+    {
+      "word": "disservice",
+      "pos": "n.",
+      "definition": "伤害，危害",
+      "cefr": "C1"
+    },
+    {
+      "word": "psychological",
+      "pos": "adj.",
+      "definition": "心理的",
+      "cefr": "B2"
+    },
+    {
+      "word": "peer",
+      "pos": "n.",
+      "definition": "同龄人，同伴",
+      "cefr": "B2"
+    },
+    {
+      "word": "dreams",
+      "pos": "n.",
+      "definition": "梦想，愿望",
+      "cefr": "B1"
+    }
+  ],
+  "complex_sentences": [
+    {
+      "sentence": "Most of Ho's students will recover, which means that preparing them to return to school is an increasingly important component of care.",
+      "structure": "which引导非限制性定语从句，that引导宾语从句",
+      "translation": "霍的大多数学生都会康复，这意味着帮助他们回归学校是护理工作中日益重要的组成部分。"
+    },
+    {
+      "sentence": "If you're scared about something and thinking only about that, there's no way you're going to be able to learn.",
+      "structure": "If引导条件状语从句，there be句型",
+      "translation": "如果你害怕某件事并且只想着那件事，你就不可能学习。"
+    },
+    {
+      "sentence": "School can keep those dreams alive by giving kids a way to learn and grow.",
+      "structure": "动名词短语作介词宾语，不定式作定语",
+      "translation": "学校可以通过给孩子们提供学习和成长的方式来让他们的梦想保持活力。"
+    }
+  ]
+}

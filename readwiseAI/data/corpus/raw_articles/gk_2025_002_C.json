@@ -1,0 +1,135 @@
+{
+  "id": "gk_2025_002_C",
+  "source": "2025全国II卷",
+  "topic": "心理健康",
+  "type": "真题",
+  "difficulty": "L3",
+  "genre": "expository",
+  "word_count": 308,
+  "title": "Plants Boost Your Mood",
+  "section": "C",
+  "content": "When Sonja Detrinidad opened her online shop selling houseplants, she didn't have high hopes for it. But the opposite happened: She was flooded, shipping out 1,200 orders in June of 2020 alone. In the past year, Detrinidad sent out more than 70,000 plants. Her success is just one example of increased time at home leading to an explosion in the houseplant industry.\n\n\"Plants are in fashion right now,\" says Dr. Melinda Knuth, a researcher from the University of Florida. \"People who live in plant-rich environments report a higher life satisfaction rating,\" she says. \"Adding more nature to our environment can change our mood and how we think.\" Plants can improve our state of mind in a few ways but the biggest is by decreasing our level of cortisol, the stress hormone (激素) in our body.\n\n\"Students who are around plants perform better academically than students who are in a classroom without plants,\" says Knuth. \"This productivity also translates into the workplace for adults. Our study showed that there was a 30% decrease in sick leave for people who were in plant-rich workplaces.\"\n\nIf you're among the groups of people who are enjoying the mental and physical health benefits of surrounding yourself with plants, don't beat yourself up if one (or a few!) doesn't make it. \"Doctors practice medicine and lawyers practice law and you should allow yourself the practice it takes to sustain a plant. Tending to plants is an exercise in patience and learning. Be invested in taking care of it, but if it dies, go get another one,\" Detrinidad says.",
+  "questions": [
+    {
+      "question_text": "How was Detrinidad's business when it started?",
+      "options": {
+        "A": "It faced tough competition",
+        "B": "It suffered a great loss",
+        "C": "It got lots of financial support",
+        "D": "It went surprisingly well"
+      },
+      "correct_answer": "D",
+      "question_type": "detail",
+      "explanation": "文章指出：'she didn't have high hopes for it. But the opposite happened'，说明生意出乎意料地好。"
+    },
+    {
+      "question_text": "What is one of Knuth's findings about plants?",
+      "options": {
+        "A": "They appeal more to students",
+        "B": "They purify the environment",
+        "C": "They raise the cortisol level",
+        "D": "They enhance productivity"
+      },
+      "correct_answer": "D",
+      "question_type": "detail",
+      "explanation": "Knuth的研究发现：'Students who are around plants perform better academically'，且在工作场所plant-rich环境中病假减少30%，说明植物提高生产力。"
+    },
+    {
+      "question_text": "What does Detrinidad try to explain by mentioning doctors and lawyers?",
+      "options": {
+        "A": "The necessity of social skills",
+        "B": "The meaning of sustainability",
+        "C": "The importance of repeated efforts",
+        "D": "The value of professional opinions"
+      },
+      "correct_answer": "C",
+      "question_type": "inference",
+      "explanation": "Detrinidad用'doctors practice medicine and lawyers practice law'来说明养植物需要反复练习，只有通过不断实践才能学会。"
+    },
+    {
+      "question_text": "What can be a suitable title for the text?",
+      "options": {
+        "A": "Time to Replace Houseplants",
+        "B": "Plants Boost Your Mood",
+        "C": "Tips on Choosing Houseplants",
+        "D": "Plants Brighten Your Home"
+      },
+      "correct_answer": "B",
+      "question_type": "main_idea",
+      "explanation": "文章主要讨论植物对心理健康和情绪的积极影响，'Plants Boost Your Mood'最能概括文章主旨。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "houseplant",
+      "pos": "n.",
+      "definition": "室内植物",
+      "cefr": "B2"
+    },
+    {
+      "word": "flood",
+      "pos": "v.",
+      "definition": "涌入，大量出现",
+      "cefr": "B2"
+    },
+    {
+      "word": "explosion",
+      "pos": "n.",
+      "definition": "激增，爆发",
+      "cefr": "B2"
+    },
+    {
+      "word": "cortisol",
+      "pos": "n.",
+      "definition": "皮质醇（压力激素）",
+      "cefr": "C2"
+    },
+    {
+      "word": "productivity",
+      "pos": "n.",
+      "definition": "生产力，生产率",
+      "cefr": "B2"
+    },
+    {
+      "word": "sick leave",
+      "pos": "n.",
+      "definition": "病假",
+      "cefr": "B2"
+    },
+    {
+      "word": "sustain",
+      "pos": "v.",
+      "definition": "维持，养活",
+      "cefr": "B2"
+    },
+    {
+      "word": "tend",
+      "pos": "v.",
+      "definition": "照料，护理",
+      "cefr": "B2"
+    },
+    {
+      "word": "invest",
+      "pos": "v.",
+      "definition": "投入（时间、精力等）",
+      "cefr": "B2"
+    }
+  ],
+  "complex_sentences": [
+    {
+      "sentence": "Her success is just one example of increased time at home leading to an explosion in the houseplant industry.",
+      "structure": "动名词短语作介词宾语，现在分词作定语",
+      "translation": "她的成功只是居家时间增加导致室内植物行业蓬勃发展的一个例子。"
+    },
+    {
+      "sentence": "People who live in plant-rich environments report a higher life satisfaction rating.",
+      "structure": "who引导定语从句，现在分词作定语",
+      "translation": "生活在植物丰富环境中的人报告了更高的生活满意度。"
+    },
+    {
+      "sentence": "Doctors practice medicine and lawyers practice law and you should allow yourself the practice it takes to sustain a plant.",
+      "structure": "三个并列句，it引导定语从句",
+      "translation": "医生需要实践医术，律师需要实践法律，你也应该给自己养植物所需的练习。"
+    }
+  ]
+}

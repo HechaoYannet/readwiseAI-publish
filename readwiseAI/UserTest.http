@@ -1,0 +1,78 @@
+### POST request to verify invite code
+POST http://localhost:8000/api/auth/verify-invite
+Content-Type: application/json
+
+{
+  "invite_code": "RJSKKFZF"
+}
+
+### POST request to register a new user
+POST http://localhost:8000/api/auth/register
+Content-Type: application/json
+
+{
+  "invite_code": "RJSKKFZF",
+  "username": "张三",
+  "password": "password123",
+  "confirm_password": "password123",
+  "exam_region": "全国I卷",
+  "grade": "高三",
+  "school": "示范高中"
+}
+> {%
+    // 提取 token 供后续请求使用
+    client.global.set("auth_token", response.body.access_token);
+%}
+
+### POST request to login and obtain auth token
+POST http://localhost:8000/api/auth/login
+Content-Type: application/json
+
+{
+  "login_id": "张三",
+  "password": "password123"
+}
+> {%
+    // 提取 token 供后续请求使用
+    client.global.set("auth_token", response.body.access_token);
+%}
+
+### POST attempt request to  server
+POST http://localhost:8000/api/attempt
+Content-Type: application/json
+Authorization: Bearer {{auth_token}}
+
+{
+  "paragraph": "",
+  "question_text": "",
+  "options": {},
+  "user_answer": "",
+  "correct_answer": "",
+  "time_spent": 0,
+  "request_type": "training_set",
+  "query_type": "",
+  "content": "根据学生目前的学习情况和考试成绩，生成训练题组，以帮助他们提高成绩。",
+  "context_sentence": null,
+  "difficulty": null,
+  "genre": null,
+  "topic": null,
+  "word_count": null,
+  "article": null,
+  "question_type": null,
+  "question_types": null,
+  "count": null,
+  "session_id": "",
+  "enable_planning": null,
+  "reference_id": null,
+  "user_level": null,
+  "question_number": null
+}
+> {%
+    // 提取 request_id 供后续请求使用
+    client.global.set("request_id", response.body.request_id);
+%}
+
+### GET request to retrieve attempt result
+GET http://localhost:8000/api/result/{{request_id}}
+Authorization: Bearer {{auth_token}}
+Content-Type: application/json

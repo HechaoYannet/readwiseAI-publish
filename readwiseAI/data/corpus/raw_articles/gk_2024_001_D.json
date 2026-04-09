@@ -1,0 +1,69 @@
+{
+  "id": "gk_2024_001_D",
+  "source": "2024新课标I卷",
+  "topic": "科学研究与数据偏差",
+  "type": "真题",
+  "difficulty": "L3",
+  "genre": "expository",
+  "word_count": 338,
+  "title": "Biodiversity Data",
+  "section": "D",
+  "content": "In the race to document the species on Earth before they go extinct, researchers and citizen scientists have collected billions of records. Today, most records of biodiversity are often in the form of photos, videos, and other digital records. Though they are useful for detecting shifts in the number and variety of species in an area, a new Stanford study has found that this type of record is not perfect.\n\n\"With the rise of technology it is easy for people to make observations of different species with the aid of a mobile application,\" said Barnabas Daru, who is lead author of the study and assistant professor of biology in the Stanford School of Humanities and Sciences. \"These observations now outnumber the primary data that comes from physical specimens (标本), and since we are increasingly using observational data to investigate how species are responding to global change, I wanted to know: Are they usable?\"\n\nUsing a global dataset of 1.9 billion records of plants, insects, birds, and animals, Daru and his team tested how well these data represent actual global biodiversity patterns.\n\n\"We were particularly interested in exploring the aspects of sampling that tend to bias (使有偏差) data, like the greater likelihood of a citizen scientist to take a picture of a flowering plant instead of the grass right next to it,\" said Daru.\n\nTheir study revealed that the large number of observation-only records did not lead to better global coverage. Moreover, these data are biased and favor certain regions, time periods, and species. This makes sense because the people who get observational biodiversity data on mobile devices are often citizen scientists recording their encounters with species in areas nearby. These data are also biased toward certain species with attractive or eye-catching features.\n\nWhat can we do with the imperfect datasets of biodiversity?\n\n\"Quite a lot,\" Daru explained. \"Biodiversity apps can use our study results to inform users of oversampled areas and lead them to places --- and even species --- that are not well-sampled. To improve the quality of observational data, biodiversity apps can also encourage users to have an expert confirm the identification of their uploaded image.\"",
+  "questions": [
+    {
+      "question_text": "What do we know about the records of species collected now?",
+      "options": {"A": "They are becoming outdated", "B": "They are mostly in electronic form", "C": "They are limited in number", "D": "They are used for public exhibition"},
+      "correct_answer": "B",
+      "question_type": "detail",
+      "explanation": "文章明确指出：'most records of biodiversity are often in the form of photos, videos, and other digital records'，说明大多数记录是电子形式的。"
+    },
+    {
+      "question_text": "What does Daru's study focus on?",
+      "options": {"A": "Threatened species", "B": "Physical specimens", "C": "Observational data", "D": "Mobile applications"},
+      "correct_answer": "C",
+      "question_type": "detail",
+      "explanation": "文章说明Daru研究的是'observational data'（观察数据）是否能代表实际的全球生物多样性模式。"
+    },
+    {
+      "question_text": "What has led to the biases according to the study?",
+      "options": {"A": "Mistakes in data analysis", "B": "Poor quality of uploaded pictures", "C": "Improper way of sampling", "D": "Unreliable data collection devices"},
+      "correct_answer": "C",
+      "question_type": "detail",
+      "explanation": "文章指出采样方式存在问题：'citizen scientist to take a picture of a flowering plant instead of the grass right next to it'，说明是不恰当的采样方式。"
+    },
+    {
+      "question_text": "What is Daru's suggestion for biodiversity apps?",
+      "options": {"A": "Review data from certain areas", "B": "Hire experts to check the records", "C": "Confirm the identity of the users", "D": "Give guidance to citizen scientists"},
+      "correct_answer": "D",
+      "question_type": "inference",
+      "explanation": "Daru建议：'biodiversity apps can use our study results to inform users of oversampled areas and lead them to places...that are not well-sampled'，即引导公民科学家去正确采样。"
+    }
+  ],
+  "vocabulary": [
+    {"word": "document", "pos": "v.", "definition": "记录，记载", "cefr": "B2"},
+    {"word": "extinct", "pos": "adj.", "definition": "灭绝的", "cefr": "B2"},
+    {"word": "biodiversity", "pos": "n.", "definition": "生物多样性", "cefr": "C1"},
+    {"word": "specimen", "pos": "n.", "definition": "标本，样本", "cefr": "B2"},
+    {"word": "bias", "pos": "v.", "definition": "使有偏差", "cefr": "B2"},
+    {"word": "coverage", "pos": "n.", "definition": "覆盖率，覆盖范围", "cefr": "B2"},
+    {"word": "citizen scientist", "pos": "n.", "definition": "公民科学家", "cefr": "C1"},
+    {"word": "oversampled", "pos": "adj.", "definition": "过度采样的", "cefr": "C2"}
+  ],
+  "complex_sentences": [
+    {
+      "sentence": "With the rise of technology it is easy for people to make observations of different species with the aid of a mobile application.",
+      "structure": "with + n.作状语，it作形式主语",
+      "translation": "随着技术的兴起，人们很容易借助手机应用程序对不同物种进行观察。"
+    },
+    {
+      "sentence": "These observations now outnumber the primary data that comes from physical specimens.",
+      "structure": "that引导定语从句，现在分词作定语",
+      "translation": "这些观察记录现在已超过来自实物标本的主要数据。"
+    },
+    {
+      "sentence": "Biodiversity apps can use our study results to inform users of oversampled areas and lead them to places that are not well-sampled.",
+      "structure": "并列不定式结构，that引导定语从句",
+      "translation": "生物多样性应用程序可以利用我们的研究结果告知用户过度采样的区域，并引导他们前往采样不足的地方。"
+    }
+  ]
+}

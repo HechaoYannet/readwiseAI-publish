@@ -1,0 +1,124 @@
+{
+  "id": "gk_2025_002_A",
+  "source": "2025全国II卷",
+  "topic": "旅游与文化探索",
+  "type": "真题",
+  "difficulty": "L3",
+  "genre": "expository",
+  "word_count": 268,
+  "title": "English Market Towns to Visit in the UK",
+  "section": "A",
+  "content": "English Market Towns to Visit in the UK\n\nEnglish market towns come in many shapes and sizes. Each has a personality shaped by the goods and services produced and traded for centuries. But each town has more to do than shop.\n\nHereford, Herefordshire\nHereford has remained a lively market town since 1189. Skirting the town square, you'll find lovely shops, eateries, and the Black and White House Museum. The Hereford Cathedral is the most impressive building in town. It's also home to an ancient library. One of the four original copies of the Magna Carta is displayed there.\n\nLudlow, Shropshire\nLudlow is known as the Foodie Center of England. Butcher shops, greengrocers, bakeries, and cheese shops line the town square. Bordering the square, the Ludlow Castle is a \"must explore\" medieval stronghold. The three-day Ludlow Food Festival is held each September.\n\nShrewsbury, Shropshire\nGetting to Shrewsbury Town Center from London is challenging but worth the anxiety. The River Severn has a significant turn through town, almost making an island of Shrewsbury Town Center. The shape creates a perfect market where goods could be shipped and received using the river as a highway. Flowers are everywhere-hanging baskets, window boxes, and planters-just what you imagine in an attractive English market town.\n\nMevagissey, Cornwall\nEven if you haven't been to the small fishing village Mevagissey, you've probably seen it in a movie or British TV show. The working harbor (港口) took shape in 1774. Fishermen go out to sea daily and sell their fish in harbor-side markets. Don't leave the harbor without a traditional Cornish pie. It's delicious.",
+  "questions": [
+    {
+      "question_text": "Where can you find an original copy of the Magna Carta?",
+      "options": {
+        "A": "In the Ludlow Castle",
+        "B": "In the Foodie Center of England",
+        "C": "In the Hereford Cathedral",
+        "D": "In the Black and White House Museum"
+      },
+      "correct_answer": "C",
+      "question_type": "detail",
+      "explanation": "文章明确指出：'One of the four original copies of the Magna Carta is displayed there.'指的是Hereford Cathedral。"
+    },
+    {
+      "question_text": "What is a feature of Shrewsbury Town Center?",
+      "options": {
+        "A": "It's situated near a big island",
+        "B": "It's almost surrounded by water",
+        "C": "It's known for its flower festival",
+        "D": "It's easily accessible from London"
+      },
+      "correct_answer": "B",
+      "question_type": "detail",
+      "explanation": "文章描述：'The River Severn has a significant turn through town, almost making an island of Shrewsbury Town Center.'说明城镇几乎被水环绕。"
+    },
+    {
+      "question_text": "What does the author suggest visitors do in Mevagissey?",
+      "options": {
+        "A": "Try the Cornish pie",
+        "B": "Watch a British TV show",
+        "C": "Go fishing in the sea",
+        "D": "Take pictures of the harbor"
+      },
+      "correct_answer": "A",
+      "question_type": "detail",
+      "explanation": "文章建议：'Don't leave the harbor without a traditional Cornish pie. It's delicious.'"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "market town",
+      "pos": "n.",
+      "definition": "集镇，郡集市",
+      "cefr": "B1"
+    },
+    {
+      "word": "eatery",
+      "pos": "n.",
+      "definition": "小餐馆，饮食店",
+      "cefr": "B2"
+    },
+    {
+      "word": "cathedral",
+      "pos": "n.",
+      "definition": "大教堂",
+      "cefr": "B2"
+    },
+    {
+      "word": "Magna Carta",
+      "pos": "n.",
+      "definition": "大宪章",
+      "cefr": "C1"
+    },
+    {
+      "word": "butcher",
+      "pos": "n.",
+      "definition": "肉店，屠夫",
+      "cefr": "B1"
+    },
+    {
+      "word": "greengrocer",
+      "pos": "n.",
+      "definition": "蔬菜水果商",
+      "cefr": "B2"
+    },
+    {
+      "word": "medieval",
+      "pos": "adj.",
+      "definition": "中世纪的",
+      "cefr": "B2"
+    },
+    {
+      "word": "stronghold",
+      "pos": "n.",
+      "definition": "要塞，堡垒",
+      "cefr": "B2"
+    },
+    {
+      "word": "harbor",
+      "pos": "n.",
+      "definition": "港口",
+      "cefr": "B1"
+    },
+    {
+      "word": "Cornish pie",
+      "pos": "n.",
+      "definition": "康沃尔馅饼",
+      "cefr": "C1"
+    }
+  ],
+  "complex_sentences": [
+    {
+      "sentence": "The River Severn has a significant turn through town, almost making an island of Shrewsbury Town Center.",
+      "structure": "现在完成时，动词-ing形式作结果状语",
+      "translation": "塞文河在城镇中有一个显著的转弯，几乎将什鲁斯伯里镇中心变成了一座岛屿。"
+    },
+    {
+      "sentence": "Don't leave the harbor without a traditional Cornish pie. It's delicious.",
+      "structure": "否定祈使句，形容词作表语",
+      "translation": "离开港口前一定要尝尝传统的康沃尔馅饼。非常美味。"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "gk_2024_001_A",
+  "source": "2024新课标I卷",
+  "topic": "生态保护与志愿服务",
+  "type": "真题",
+  "difficulty": "L3",
+  "genre": "expository",
+  "word_count": 248,
+  "title": "Habitat Restoration Team",
+  "section": "A",
+  "content": "Help restore and protect Marin's natural areas from the Marin Headlands to Bolinas Ridge. We'll explore beautiful park sites while conducting invasive (侵入的) plant removal, winter planting, and seed collection. Habitat Restoration Team volunteers play a vital role in restoring sensitive resources and protecting endangered species across the ridges and valleys.\n\nGROUPS\nGroups of five or more require special arrangements and must be confirmed in advance. Please review the List of Available Projects and fill out the Group Project Request Form.\n\nAGE, SKILLS, WHAT TO BRING\nVolunteers aged 10 and over are welcome. Read our Youth Policy Guidelines for youth under the age of 15.\nBring your completed Volunteer Agreement Form. Volunteers under the age of 18 must have the parent/guardian approval section signed.\nWe'll be working rain or shine. Wear clothes that can get dirty. Bring layers for changing weather and a raincoat if necessary.\nBring a personal water bottle, sunscreen, and lunch.\nNo experience necessary. Training and tools will be provided. Fulfills (满足) community service requirements.\n\nUPCOMING EVENTS\n| Time | Meeting Location |\n|------|------------------|\n| Sunday, Jan. 15 10:00 am --- 1:00 pm | Battery Alexander Trailhead |\n| Sunday, Jan. 22 10:00 am --- 2:30 pm | Stinson Beach Parking Lot |\n| Sunday, Jan. 29 9:30 am --- 2:30 pm | Coyote Ridge Trailhead |",
+  "questions": [
+    {
+      "question_text": "What is the aim of the Habitat Restoration Team?",
+      "options": {"A": "To discover mineral resources", "B": "To develop new wildlife parks", "C": "To protect the local ecosystem", "D": "To conduct biological research"},
+      "correct_answer": "C",
+      "question_type": "detail",
+      "explanation": "文章开头明确说明：'Help restore and protect Marin's natural areas'以及'restoring sensitive resources and protecting endangered species'，说明团队目标是保护当地生态系统。"
+    },
+    {
+      "question_text": "What is the lower age limit for joining the Habitat Restoration Team?",
+      "options": {"A": "5", "B": "10", "C": "15", "D": "18"},
+      "correct_answer": "B",
+      "question_type": "detail",
+      "explanation": "文章明确指出：'Volunteers aged 10 and over are welcome.'"
+    },
+    {
+      "question_text": "What are the volunteers expected to do?",
+      "options": {"A": "Bring their own tools", "B": "Work even in bad weather", "C": "Wear a team uniform", "D": "Do at least three projects"},
+      "correct_answer": "B",
+      "question_type": "detail",
+      "explanation": "文章说明：'We'll be working rain or shine.'意味着无论天气好坏都要工作。"
+    }
+  ],
+  "vocabulary": [
+    {"word": "habitat", "pos": "n.", "definition": "栖息地，产地", "cefr": "B2"},
+    {"word": "restoration", "pos": "n.", "definition": "修复，恢复", "cefr": "B2"},
+    {"word": "invasive", "pos": "adj.", "definition": "侵入的，侵略性的", "cefr": "B2"},
+    {"word": "endangered", "pos": "adj.", "definition": "濒危的", "cefr": "B2"},
+    {"word": "valley", "pos": "n.", "definition": "山谷，流域", "cefr": "B1"},
+    {"word": "volunteer", "pos": "n.", "definition": "志愿者", "cefr": "B1"},
+    {"word": "fulfill", "pos": "v.", "definition": "满足，实现", "cefr": "B2"},
+    {"word": "sunscreen", "pos": "n.", "definition": "防晒霜", "cefr": "B2"}
+  ],
+  "complex_sentences": [
+    {
+      "sentence": "Volunteers aged 10 and over are welcome.",
+      "structure": "过去分词作定语，over表示年龄以上",
+      "translation": "欢迎10岁及以上的志愿者参加。"
+    },
+    {
+      "sentence": "We'll be working rain or shine.",
+      "structure": "名词作状语，rain or shine是固定表达，意为无论晴雨",
+      "translation": "无论晴天还是雨天我们都会工作。"
+    },
+    {
+      "sentence": "No experience necessary. Training and tools will be provided.",
+      "structure": "no + n.表示完全的否定，被动语态",
+      "translation": "无需经验。培训和工作工具将由我们提供。"
+    }
+  ]
+}

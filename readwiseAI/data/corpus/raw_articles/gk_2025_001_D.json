@@ -1,0 +1,147 @@
+{
+  "id": "gk_2025_001_D",
+  "source": "2025全国I卷",
+  "topic": "环保与健康",
+  "type": "真题",
+  "difficulty": "L3",
+  "genre": "expository",
+  "word_count": 345,
+  "title": "Boiling and filtering tap water may reduce microplastics",
+  "section": "D",
+  "content": "Microplastics have become a common source of pollution across the Earth --- they have settled in the deep sea and on the Himalayas, stuck inside volcanic rocks, filled the stomachs of seabirds and even fallen in fresh Antarctic snow. They are even appearing inside humans.\n\nNow, new research suggests that a simple, cheap measure may significantly reduce the level of microplastics in water from your tap (水龙头): boiling and filtering (过滤) it. In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes --- then filtering it after it cools --- could remove at least 80 percent of its microplastics.\n\nCrucially, this process relies on the water containing enough calcium carbonate (碳酸钙) to trap the plastics. In the study, boiling hard water containing 300 milligrams of calcium carbonate led to an almost 90 percent drop in plastics. But in samples with less than 60 milligrams of calcium carbonate, boiling reduced the level of plastics by just 25 percent. Additionally, the research didn't include all types of plastics. The team focused only on three common types --- polystyrene, polyethylene and polypropylene --- and they didn't study other chemicals previously found in water such as vinyl chloride.\n\nStill, the findings show a potential path forward for reducing microplastic exposure --- a task that's becoming increasingly difficult. Even bottled water, scientists found earlier this year, contains 10 to 1,000 times more microplastics than originally thought.\n\nScientists are still trying to determine how harmful microplastics are --- but what they do know has raised concerns. The new study suggests boiling tap water could be a tool to limit intake. \"The way they demonstrated how microplastics were trapped through the boiling process was nice,\" Caroline Gauchotte-Lindsay, an environmental engineer of the University of Glasgow in Scotland who was not involved in the research, tells New Scientist. \"We should be looking into upgrading drinking water treatment plants so they remove microplastics.\"",
+  "questions": [
+    {
+      "question_text": "How does the author present the issue in the first paragraph?",
+      "options": {
+        "A": "By quoting an expert",
+        "B": "By defining a concept",
+        "C": "By giving examples",
+        "D": "By providing statistics"
+      },
+      "correct_answer": "C",
+      "question_type": "detail",
+      "explanation": "第一段通过列举微塑料在深海、喜马拉雅山、火山岩、海鸟胃中甚至南极新鲜降雪中的存在来说明微塑料污染的普遍性，属于举例说明。"
+    },
+    {
+      "question_text": "What determines the effectiveness of trapping microplastics in water?",
+      "options": {
+        "A": "The hardness of water",
+        "B": "The length of cooling time",
+        "C": "The frequency of filtering",
+        "D": "The type of plastic in water"
+      },
+      "correct_answer": "A",
+      "question_type": "detail",
+      "explanation": "文章指出：'this process relies on the water containing enough calcium carbonate'，即水的硬度（含碳酸钙量）决定了去除微塑料的效果。硬水效果更好。"
+    },
+    {
+      "question_text": "What does the author try to illustrate by mentioning bottled water in paragraph 4?",
+      "options": {
+        "A": "The importance of plastic recycling",
+        "B": "The severity of the microplastic problem",
+        "C": "The danger in overusing pure water",
+        "D": "The difficulty in treating polluted water"
+      },
+      "correct_answer": "B",
+      "question_type": "inference",
+      "explanation": "提到瓶装水含有10到1000倍于预期的微塑料，是为了说明微塑料问题的严重性（severity），即使是纯净水瓶装水也难以避免。"
+    },
+    {
+      "question_text": "What is Gauchotte-Lindsay's suggestion about?",
+      "options": {
+        "A": "Choice of new research methods",
+        "B": "Possible direction for further study",
+        "C": "Need to involve more researchers",
+        "D": "Potential application of the findings"
+      },
+      "correct_answer": "D",
+      "question_type": "inference",
+      "explanation": "Gauchotte-Lindsay建议：'We should be looking into upgrading drinking water treatment plants so they remove microplastics.'这是关于研究发现潜在应用方向的建议。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "microplastic",
+      "pos": "n.",
+      "definition": "微塑料",
+      "cefr": "C1"
+    },
+    {
+      "word": "pollution",
+      "pos": "n.",
+      "definition": "污染",
+      "cefr": "B1"
+    },
+    {
+      "word": "filter",
+      "pos": "v.",
+      "definition": "过滤",
+      "cefr": "B2"
+    },
+    {
+      "word": "calcium carbonate",
+      "pos": "n.",
+      "definition": "碳酸钙",
+      "cefr": "C1"
+    },
+    {
+      "word": "trap",
+      "pos": "v.",
+      "definition": "捕获，困住",
+      "cefr": "B1"
+    },
+    {
+      "word": "polystyrene",
+      "pos": "n.",
+      "definition": "聚苯乙烯",
+      "cefr": "C2"
+    },
+    {
+      "word": "polyethylene",
+      "pos": "n.",
+      "definition": "聚乙烯",
+      "cefr": "C2"
+    },
+    {
+      "word": "polypropylene",
+      "pos": "n.",
+      "definition": "聚丙烯",
+      "cefr": "C2"
+    },
+    {
+      "word": "vinyl chloride",
+      "pos": "n.",
+      "definition": "氯乙烯",
+      "cefr": "C2"
+    },
+    {
+      "word": "exposure",
+      "pos": "n.",
+      "definition": "暴露，接触",
+      "cefr": "B2"
+    },
+    {
+      "word": "intake",
+      "pos": "n.",
+      "definition": "摄入，吸收",
+      "cefr": "B2"
+    }
+  ],
+  "complex_sentences": [
+    {
+      "sentence": "Microplastics have become a common source of pollution across the Earth --- they have settled in the deep sea and on the Himalayas, stuck inside volcanic rocks, filled the stomachs of seabirds and even fallen in fresh Antarctic snow.",
+      "structure": "现在完成时，被动语态，多个并列谓语",
+      "translation": "微塑料已经成为地球上常见的污染源——它们沉积在深海和喜马拉雅山，嵌入火山岩中，填满海鸟的胃，甚至落在南极新鲜的降雪里。"
+    },
+    {
+      "sentence": "Crucially, this process relies on the water containing enough calcium carbonate to trap the plastics.",
+      "structure": "动名词短语作宾语，不定式作目的状语",
+      "translation": "关键的是，这个过程依赖于水中含有足够的碳酸钙来捕获塑料。"
+    },
+    {
+      "sentence": "We should be looking into upgrading drinking water treatment plants so they remove microplastics.",
+      "structure": "look into doing sth，so引导目的状语从句",
+      "translation": "我们应该研究升级饮用水处理厂，使它们能够去除微塑料。"
+    }
+  ]
+}

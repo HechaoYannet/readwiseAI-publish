@@ -1,0 +1,135 @@
+{
+  "id": "gk_2025_001_C",
+  "source": "2025全国I卷",
+  "topic": "城市发展与生活方式",
+  "type": "真题",
+  "difficulty": "L3",
+  "genre": "argumentative",
+  "word_count": 318,
+  "title": "The Rush to Nowhere",
+  "section": "C",
+  "content": "While safety improvements might have been made to our streets in recent years, transport studies also show declines in pedestrian (行人) mobility, especially among young children. Many parents say there's too much traffic on the roads for their children to walk safely to school, so they pack them into the car instead.\n\nDutch authors Thalia Verkade and Marco te Brömmelstroet are bothered by facts like these. In their new book Movement: How to Take Back Our Streets and Transform Our Lives, they call for a rethink of our streets and the role they play in our lives.\n\nLife on city streets started to change decades ago. Whole neighbourhoods were destroyed to make way for new road networks and kids had to play elsewhere. Some communities fought back. Most famously, a Canadian journalist who had moved her family to Manhattan in the early 1950s led a campaign to stop the destruction of her local park. Describing her alarm at its proposed replacement with an expressway, Jane Jacobs called on her mayor (市长) to champion \"New York as a decent place to live, and not just rush through.\" Similar campaigns occurred in Australia in the late 1960s and 1970s as well.\n\nAlthough these campaigns were widespread, the reality is that the majority of the western cities were completely redesigned around the needs of the motor car. The number of cars on roads has been increasing rapidly. In Australia we now have over twenty million cars for just over twenty-six million people, among the highest rate of car ownership in the world.\n\nWe invest a lot in roads that help us rush through, but we fail to account for the true costs. Do we really recognise what it costs us as a society when children can't move safely around our communities? The authors of Movement have it right: it's time to think differently about that street outside your front door.",
+  "questions": [
+    {
+      "question_text": "What phenomenon does the author point out in paragraph 1?",
+      "options": {
+        "A": "Cars often get stuck on the road",
+        "B": "Traffic accidents occur frequently",
+        "C": "People walk less and drive more",
+        "D": "Pedestrians fail to follow the rules"
+      },
+      "correct_answer": "C",
+      "question_type": "detail",
+      "explanation": "第一段指出：虽然近年来街道安全有所改善，但行人流动性下降，尤其是年轻儿童。许多父母因为路上车辆太多，孩子无法安全步行上学，所以改为开车送孩子。"
+    },
+    {
+      "question_text": "What were the Canadian journalist and other campaigners trying to do?",
+      "options": {
+        "A": "Keep their cities livable",
+        "B": "Promote cultural diversity",
+        "C": "Help the needy families",
+        "D": "Make expressways accessible"
+      },
+      "correct_answer": "A",
+      "question_type": "detail",
+      "explanation": "Jane Jacobs领导的运动是为了阻止当地公园被高速公路取代，她呼吁市长支持'纽约作为一个适宜居住的地方，而不仅仅是匆忙穿行'，目的是保持城市宜居。"
+    },
+    {
+      "question_text": "What can be inferred about the campaigns in Australia in the late 1960s and 1970s?",
+      "options": {
+        "A": "They boosted the sales of cars",
+        "B": "They turned out largely ineffective",
+        "C": "They won government support",
+        "D": "They advocated building new parks"
+      },
+      "correct_answer": "B",
+      "question_type": "inference",
+      "explanation": "文章指出，虽然这些运动广泛存在，但现实是大多数西方城市完全按照汽车需求重新设计。这暗示澳大利亚的运动基本上是无效的（ineffective），未能阻止城市被汽车主导的改造。"
+    },
+    {
+      "question_text": "What can be a suitable title for the text?",
+      "options": {
+        "A": "Why the Rush?",
+        "B": "What's Next?",
+        "C": "Where to Stay?",
+        "D": "Who to Blame?"
+      },
+      "correct_answer": "A",
+      "question_type": "main_idea",
+      "explanation": "文章主要讨论城市街道被汽车主导、人们匆忙穿行的问题。标题'Why the Rush?'（为何如此匆忙？）最能概括文章主旨，与文中提到的'not just rush through'相呼应。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "pedestrian",
+      "pos": "n.",
+      "definition": "行人",
+      "cefr": "B1"
+    },
+    {
+      "word": "mobility",
+      "pos": "n.",
+      "definition": "流动性，移动能力",
+      "cefr": "B2"
+    },
+    {
+      "word": "neighbourhood",
+      "pos": "n.",
+      "definition": "社区，邻里",
+      "cefr": "B1"
+    },
+    {
+      "word": "campaign",
+      "pos": "n.",
+      "definition": "运动，活动",
+      "cefr": "B2"
+    },
+    {
+      "word": "expressway",
+      "pos": "n.",
+      "definition": "高速公路，快速路",
+      "cefr": "B2"
+    },
+    {
+      "word": "champion",
+      "pos": "v.",
+      "definition": "支持，拥护",
+      "cefr": "B2"
+    },
+    {
+      "word": "redesign",
+      "pos": "v.",
+      "definition": "重新设计",
+      "cefr": "B2"
+    },
+    {
+      "word": "recognise",
+      "pos": "v.",
+      "definition": "认识，承认",
+      "cefr": "B2"
+    },
+    {
+      "word": "livable",
+      "pos": "adj.",
+      "definition": "适宜居住的",
+      "cefr": "B2"
+    }
+  ],
+  "complex_sentences": [
+    {
+      "sentence": "Many parents say there's too much traffic on the roads for their children to walk safely to school, so they pack them into the car instead.",
+      "structure": "so连接因果关系，there be句型，too...to...结构",
+      "translation": "许多父母说，路上车辆太多，孩子无法安全步行上学，所以他们改用汽车送孩子。"
+    },
+    {
+      "sentence": "Jane Jacobs called on her mayor to champion \"New York as a decent place to live, and not just rush through.\"",
+      "structure": "call on sb to do sth，不定式短语作宾补",
+      "translation": "简·雅各布斯呼吁她的市长支持'纽约作为一个适宜居住的地方，而不仅仅是匆忙穿行'。"
+    },
+    {
+      "sentence": "In Australia we now have over twenty million cars for just over twenty-six million people, among the highest rate of car ownership in the world.",
+      "structure": "并列句，among + n.作状语表示所属",
+      "translation": "在澳大利亚，我们现在有超过两千万辆汽车，而人口只有两千六百多万，是世界上汽车拥有率最高的国家之一。"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "gk_2024_001_C",
+  "source": "2024新课标I卷",
+  "topic": "科技与学习方式",
+  "type": "真题",
+  "difficulty": "L3",
+  "genre": "argumentative",
+  "word_count": 345,
+  "title": "Print vs Digital Reading ",
+  "section": "C",
+  "content": "Is comprehension the same whether a person reads a text onscreen or on paper? And are listening to and viewing content as effective as reading the written word when covering the same material? The answers to both questions are often \"no\". The reasons relate to a variety of factors, including reduced concentration, an entertainment mindset (心态) and a tendency to multitask while consuming digital content.\n\nWhen reading texts of several hundred words or more, learning is generally more successful when it's on paper than onscreen. A large amount of research confirms this finding. The benefits of print reading particularly shine through when experimenters move from posing simple tasks --- like identifying the main idea in a reading passage --- to ones that require mental abstraction --- such as drawing inferences from a text.\n\nThe differences between print and digital reading results are partly related to paper's physical properties. With paper, there is a literal laying on of hands, along with the visual geography of distinct pages. People often link their memory of what they've read to how far into the book it was or where it was on the page.\n\nBut equally important is the mental aspect. Reading researchers have proposed a theory called \"shallowing hypothesis (假说)\". According to this theory, people approach digital texts with a mindset suited to social media, which are often not so serious, and devote less mental effort than when they are reading print.\n\nAudio (音频) and video can feel more engaging than text, and so university teachers increasingly turn to these technologies --- say, assigning an online talk instead of an article by the same person. However, psychologists have demonstrated that when adults read news stories, they remember more of the content than if they listen to or view identical pieces.\n\nDigital texts, audio and video all have educational roles, especially when providing resources not available in print. However, for maximizing learning where mental focus and reflection are called for, educators shouldn't assume all media are the same, even when they contain identical words.",
+  "questions": [
+    {
+      "question_text": "What does the underlined phrase \"shine through\" in paragraph 2 mean?",
+      "options": {
+        "A": "Seem unlikely to last",
+        "B": "Seem hard to explain",
+        "C": "Become ready to use",
+        "D": "Become easy to notice"
+      },
+      "correct_answer": "D",
+      "question_type": "vocabulary",
+      "explanation": "根据上下文，印刷阅读的优势在需要思维抽象的任务中'尤其明显'，shine through意为'变得显而易见'，即Become easy to notice。"
+    },
+    {
+      "question_text": "What does the shallowing hypothesis assume?",
+      "options": {
+        "A": "Readers treat digital texts lightly",
+        "B": "Digital texts are simpler to understand",
+        "C": "People select digital texts randomly",
+        "D": "Digital texts are suitable for social media"
+      },
+      "correct_answer": "A",
+      "question_type": "detail",
+      "explanation": "根据文章：'people approach digital texts with a mindset suited to social media'且'devote less mental effort'，说明浅层化假说认为读者对待数字文本较为轻率。"
+    },
+    {
+      "question_text": "Why are audio and video increasingly used by university teachers?",
+      "options": {
+        "A": "They can hold students' attention",
+        "B": "They are more convenient to prepare",
+        "C": "They help develop advanced skills",
+        "D": "They are more informative than text"
+      },
+      "correct_answer": "A",
+      "question_type": "detail",
+      "explanation": "文章指出：'Audio and video can feel more engaging than text'，说明因为音频和视频更能吸引学生注意力。"
+    },
+    {
+      "question_text": "What does the author imply in the last paragraph?",
+      "options": {
+        "A": "Students should apply multiple learning techniques",
+        "B": "Teachers should produce their own teaching material",
+        "C": "Print texts cannot be entirely replaced in education",
+        "D": "Education outside the classroom cannot be ignored"
+      },
+      "correct_answer": "C",
+      "question_type": "inference",
+      "explanation": "文章最后指出：'educators shouldn't assume all media are the same'，暗示印刷文本在教育中仍有不可替代的价值。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "onscreen",
+      "pos": "adv.",
+      "definition": "在屏幕上",
+      "cefr": "B2"
+    },
+    {
+      "word": "concentration",
+      "pos": "n.",
+      "definition": "专注，集中",
+      "cefr": "B2"
+    },
+    {
+      "word": "multitask",
+      "pos": "v.",
+      "definition": "多任务处理",
+      "cefr": "B2"
+    },
+    {
+      "word": "abstract",
+      "pos": "adj.",
+      "definition": "抽象的",
+      "cefr": "B2"
+    },
+    {
+      "word": "inference",
+      "pos": "n.",
+      "definition": "推理，推论",
+      "cefr": "B2"
+    },
+    {
+      "word": "shallowing",
+      "pos": "n.",
+      "definition": "浅层化",
+      "cefr": "C2"
+    },
+    {
+      "word": "hypothesis",
+      "pos": "n.",
+      "definition": "假设，假说",
+      "cefr": "B2"
+    },
+    {
+      "word": "engaging",
+      "pos": "adj.",
+      "definition": "吸引人的",
+      "cefr": "B2"
+    },
+    {
+      "word": "reflection",
+      "pos": "n.",
+      "definition": "反思，沉思",
+      "cefr": "B2"
+    }
+  ],
+  "complex_sentences": [
+    {
+      "sentence": "The benefits of print reading particularly shine through when experimenters move from posing simple tasks to ones that require mental abstraction.",
+      "structure": "when引导时间状语从句",
+      "translation": "当实验者从简单的任务转向需要思维抽象的任务时，印刷阅读的优势就尤其明显了。"
+    },
+    {
+      "sentence": "People often link their memory of what they've read to how far into the book it was or where it was on the page.",
+      "structure": "what引导宾语从句，how far和where引导表语从句",
+      "translation": "人们常常把对所读内容的记忆与阅读进度或内容在书页上的位置联系起来。"
+    },
+    {
+      "sentence": "However, for maximizing learning where mental focus and reflection are called for, educators shouldn't assume all media are the same.",
+      "structure": "where引导定语从句修饰learning，现在分词短语作状语",
+      "translation": "然而，对于需要集中注意力和反思的最大化学习，教育者不应认为所有媒体都是一样的。"
+    }
+  ]
+}

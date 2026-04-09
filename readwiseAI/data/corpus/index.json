@@ -1,0 +1,380 @@
+{
+  "articles": {
+    "gk_2024_001_A": {
+      "metadata": {
+        "id": "gk_2024_001_A",
+        "source": "2024新课标I卷",
+        "type": "真题",
+        "difficulty": "L3",
+        "genre": "expository",
+        "word_count": 248,
+        "section": "A",
+        "title": "Habitat Restoration Team",
+        "topic": "生态保护与志愿服务"
+      },
+      "path": "gk_2024_001_A.md"
+    },
+    "gk_2024_001_B": {
+      "metadata": {
+        "id": "gk_2024_001_B",
+        "source": "2024新课标I卷",
+        "type": "真题",
+        "difficulty": "L3",
+        "genre": "narrative",
+        "word_count": 315,
+        "section": "B",
+        "title": "Holistic Veterinary Medicine",
+        "topic": "传统与现代融合"
+      },
+      "path": "gk_2024_001_B.md"
+    },
+    "gk_2024_001_C": {
+      "metadata": {
+        "id": "gk_2024_001_C",
+        "source": "2024新课标I卷",
+        "type": "真题",
+        "difficulty": "L3",
+        "genre": "argumentative",
+        "word_count": 345,
+        "section": "C",
+        "title": "Print vs Digital Reading ",
+        "topic": "科技与学习方式"
+      },
+      "path": "gk_2024_001_C.md"
+    },
+    "gk_2024_001_D": {
+      "metadata": {
+        "id": "gk_2024_001_D",
+        "source": "2024新课标I卷",
+        "type": "真题",
+        "difficulty": "L3",
+        "genre": "expository",
+        "word_count": 338,
+        "section": "D",
+        "title": "Biodiversity Data",
+        "topic": "科学研究与数据偏差"
+      },
+      "path": "gk_2024_001_D.md"
+    },
+    "gk_2025_001_A": {
+      "metadata": {
+        "id": "gk_2025_001_A",
+        "source": "2025全国I卷",
+        "type": "真题",
+        "difficulty": "L3",
+        "genre": "expository",
+        "word_count": 342,
+        "section": "A",
+        "title": "The greening of planes, trains and automobiles",
+        "topic": "环境保护与可持续发展"
+      },
+      "path": "gk_2025_001_A.md"
+    },
+    "gk_2025_001_B": {
+      "metadata": {
+        "id": "gk_2025_001_B",
+        "source": "2025全国I卷",
+        "type": "真题",
+        "difficulty": "L3",
+        "genre": "narrative",
+        "word_count": 298,
+        "section": "B",
+        "title": "The Power of Writing",
+        "topic": "教育与个人成长"
+      },
+      "path": "gk_2025_001_B.md"
+    },
+    "gk_2025_001_C": {
+      "metadata": {
+        "id": "gk_2025_001_C",
+        "source": "2025全国I卷",
+        "type": "真题",
+        "difficulty": "L3",
+        "genre": "argumentative",
+        "word_count": 318,
+        "section": "C",
+        "title": "The Rush to Nowhere",
+        "topic": "城市发展与生活方式"
+      },
+      "path": "gk_2025_001_C.md"
+    },
+    "gk_2025_001_D": {
+      "metadata": {
+        "id": "gk_2025_001_D",
+        "source": "2025全国I卷",
+        "type": "真题",
+        "difficulty": "L3",
+        "genre": "expository",
+        "word_count": 345,
+        "section": "D",
+        "title": "Boiling and filtering tap water may reduce microplastics",
+        "topic": "环保与健康"
+      },
+      "path": "gk_2025_001_D.md"
+    },
+    "gk_2025_002_A": {
+      "metadata": {
+        "id": "gk_2025_002_A",
+        "source": "2025全国II卷",
+        "type": "真题",
+        "difficulty": "L3",
+        "genre": "expository",
+        "word_count": 268,
+        "section": "A",
+        "title": "English Market Towns to Visit in the UK",
+        "topic": "旅游与文化探索"
+      },
+      "path": "gk_2025_002_A.md"
+    },
+    "gk_2025_002_B": {
+      "metadata": {
+        "id": "gk_2025_002_B",
+        "source": "2025全国II卷",
+        "type": "真题",
+        "difficulty": "L3",
+        "genre": "narrative",
+        "word_count": 312,
+        "section": "B",
+        "title": "Hospital Teacher",
+        "topic": "教育与爱心关怀"
+      },
+      "path": "gk_2025_002_B.md"
+    },
+    "gk_2025_002_C": {
+      "metadata": {
+        "id": "gk_2025_002_C",
+        "source": "2025全国II卷",
+        "type": "真题",
+        "difficulty": "L3",
+        "genre": "expository",
+        "word_count": 308,
+        "section": "C",
+        "title": "Plants Boost Your Mood",
+        "topic": "心理健康"
+      },
+      "path": "gk_2025_002_C.md"
+    },
+    "gk_2025_002_D": {
+      "metadata": {
+        "id": "gk_2025_002_D",
+        "source": "2025全国II卷",
+        "type": "真题",
+        "difficulty": "L3",
+        "genre": "argumentative",
+        "word_count": 335,
+        "section": "D",
+        "title": "wastED: A Restaurant That Serves Food That Would Otherwise Be Thrown Away",
+        "topic": "环保与创新"
+      },
+      "path": "gk_2025_002_D.md"
+    },
+    "gk_wuhan_2026_A": {
+      "metadata": {
+        "id": "gk_wuhan_2026_A",
+        "source": "2026武汉三调",
+        "type": "模拟题",
+        "difficulty": "L3",
+        "genre": "expository",
+        "word_count": 285,
+        "section": "A",
+        "title": "LA Street Food & Photography Tour",
+        "topic": "旅游体验与城市文化"
+      },
+      "path": "gk_wuhan_2026_A.md"
+    },
+    "gk_wuhan_2026_B": {
+      "metadata": {
+        "id": "gk_wuhan_2026_B",
+        "source": "2026武汉三调",
+        "type": "模拟题",
+        "difficulty": "L3",
+        "genre": "narrative",
+        "word_count": 365,
+        "section": "B",
+        "title": "Hospital Teacher",
+        "topic": "青年创新与社区建设"
+      },
+      "path": "gk_wuhan_2026_B.md"
+    },
+    "gk_wuhan_2026_C": {
+      "metadata": {
+        "id": "gk_wuhan_2026_C",
+        "source": "2026武汉三调",
+        "type": "模拟题",
+        "difficulty": "L3",
+        "genre": "argumentative",
+        "word_count": 365,
+        "section": "C",
+        "title": "Dictionaries vs AI Assistants",
+        "topic": "科技与人文传承"
+      },
+      "path": "gk_wuhan_2026_C.md"
+    },
+    "gk_wuhan_2026_D": {
+      "metadata": {
+        "id": "gk_wuhan_2026_D",
+        "source": "2026武汉三调",
+        "type": "模拟题",
+        "difficulty": "L3",
+        "genre": "expository",
+        "word_count": 365,
+        "section": "D",
+        "title": "Quantum Cryptography DI-QKD",
+        "topic": "科技创新"
+      },
+      "path": "gk_wuhan_2026_D.md"
+    }
+  },
+  "indexes": {
+    "by_difficulty": {
+      "L1": [],
+      "L2": [],
+      "L3": [
+        "gk_2024_001_A",
+        "gk_2024_001_B",
+        "gk_2024_001_C",
+        "gk_2024_001_D",
+        "gk_2025_001_A",
+        "gk_2025_001_B",
+        "gk_2025_001_C",
+        "gk_2025_001_D",
+        "gk_2025_002_A",
+        "gk_2025_002_B",
+        "gk_2025_002_C",
+        "gk_2025_002_D",
+        "gk_wuhan_2026_A",
+        "gk_wuhan_2026_B",
+        "gk_wuhan_2026_C",
+        "gk_wuhan_2026_D"
+      ],
+      "L4": []
+    },
+    "by_genre": {
+      "argumentative": [
+        "gk_2024_001_C",
+        "gk_2025_001_C",
+        "gk_2025_002_D",
+        "gk_wuhan_2026_C"
+      ],
+      "expository": [
+        "gk_2024_001_A",
+        "gk_2024_001_D",
+        "gk_2025_001_A",
+        "gk_2025_001_D",
+        "gk_2025_002_A",
+        "gk_2025_002_C",
+        "gk_wuhan_2026_A",
+        "gk_wuhan_2026_D"
+      ],
+      "narrative": [
+        "gk_2024_001_B",
+        "gk_2025_001_B",
+        "gk_2025_002_B",
+        "gk_wuhan_2026_B"
+      ]
+    },
+    "by_type": {
+      "真题": [
+        "gk_2024_001_A",
+        "gk_2024_001_B",
+        "gk_2024_001_C",
+        "gk_2024_001_D",
+        "gk_2025_001_A",
+        "gk_2025_001_B",
+        "gk_2025_001_C",
+        "gk_2025_001_D",
+        "gk_2025_002_A",
+        "gk_2025_002_B",
+        "gk_2025_002_C",
+        "gk_2025_002_D"
+      ],
+      "模拟题": [
+        "gk_wuhan_2026_A",
+        "gk_wuhan_2026_B",
+        "gk_wuhan_2026_C",
+        "gk_wuhan_2026_D"
+      ]
+    },
+    "by_section": {
+      "A": [
+        "gk_2024_001_A",
+        "gk_2025_001_A",
+        "gk_2025_002_A",
+        "gk_wuhan_2026_A"
+      ],
+      "B": [
+        "gk_2024_001_B",
+        "gk_2025_001_B",
+        "gk_2025_002_B",
+        "gk_wuhan_2026_B"
+      ],
+      "C": [
+        "gk_2024_001_C",
+        "gk_2025_001_C",
+        "gk_2025_002_C",
+        "gk_wuhan_2026_C"
+      ],
+      "D": [
+        "gk_2024_001_D",
+        "gk_2025_001_D",
+        "gk_2025_002_D",
+        "gk_wuhan_2026_D"
+      ]
+    },
+    "by_topic": {
+      "生态保护与志愿服务": [
+        "gk_2024_001_A"
+      ],
+      "传统与现代融合": [
+        "gk_2024_001_B"
+      ],
+      "科技与学习方式": [
+        "gk_2024_001_C"
+      ],
+      "科学研究与数据偏差": [
+        "gk_2024_001_D"
+      ],
+      "环境保护与可持续发展": [
+        "gk_2025_001_A"
+      ],
+      "教育与个人成长": [
+        "gk_2025_001_B"
+      ],
+      "城市发展与生活方式": [
+        "gk_2025_001_C"
+      ],
+      "环保与健康": [
+        "gk_2025_001_D"
+      ],
+      "旅游与文化探索": [
+        "gk_2025_002_A"
+      ],
+      "教育与爱心关怀": [
+        "gk_2025_002_B"
+      ],
+      "心理健康": [
+        "gk_2025_002_C"
+      ],
+      "环保与创新": [
+        "gk_2025_002_D"
+      ],
+      "旅游体验与城市文化": [
+        "gk_wuhan_2026_A"
+      ],
+      "青年创新与社区建设": [
+        "gk_wuhan_2026_B"
+      ],
+      "科技与人文传承": [
+        "gk_wuhan_2026_C"
+      ],
+      "科技创新": [
+        "gk_wuhan_2026_D"
+      ]
+    }
+  },
+  "metadata": {
+    "last_updated": "2026-04-07T01:47:41.417808",
+    "total_articles": 16,
+    "version": "1.0"
+  }
+}

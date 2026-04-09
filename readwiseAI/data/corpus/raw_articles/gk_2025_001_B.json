@@ -1,0 +1,129 @@
+{
+  "id": "gk_2025_001_B",
+  "source": "2025全国I卷",
+  "topic": "教育与个人成长",
+  "type": "真题",
+  "difficulty": "L3",
+  "genre": "narrative",
+  "word_count": 298,
+  "title": "The Power of Writing",
+  "section": "B",
+  "content": "In my ninth-grade writing class last year, I met a cowboy who saved his town, a strict father who demanded his son earn straight A's, and a modern-day Juliet who died of heartbreak after her parents rejected the love of her young life. More than once, I found myself wondering just how my students, who'd created these people, knew their subjects so well.\n\nBut things were different for their first essay, which was about the question: \"Why is writing important?\" Most of the essays filled less than one page, and few contained a sentence that could be interpreted as a thesis (论点) statement. I was shocked. Then I realized that the problem was the question itself. They could have written pages on the necessity of computers, but writing, in and of itself, simply didn't strike them as important. This would have to change.\n\nAs a new unit started, I asked everyone to write a persuasive piece on a health-related topic of their choice. This time they found the exercise much more interesting. For the next two assignments, a personal-narrative unit followed by a creative-writing workshop, I only required that the piece meet the specifications of its genre (体裁) and that it contain a thesis. The results were staggering. The students took on diverse topics and turned in stories, 10 to 20 pages each, with characters that broadened my view and touched my heart.\n\nI walked into class believing that writing is important as a means of communication. However, my students demonstrated something more important to me. When the final bell rang in June, I walked away with a yearbook full of messages about writing's most powerful significance --- the ability to connect people, to put us in another's skin, to teach us what it means to be human.",
+  "questions": [
+    {
+      "question_text": "Who are the people mentioned at the beginning of paragraph 1?",
+      "options": {
+        "A": "Ninth graders",
+        "B": "Students' parents",
+        "C": "Modern writers",
+        "D": "Fictional characters"
+      },
+      "correct_answer": "D",
+      "question_type": "detail",
+      "explanation": "文章开头提到的cowboy、strict father和modern-day Juliet是学生们在写作课创作的人物形象，属于虚构角色。"
+    },
+    {
+      "question_text": "Why did the students perform poorly in writing their first essay?",
+      "options": {
+        "A": "They were not given enough time",
+        "B": "They had a very limited vocabulary",
+        "C": "They misunderstood the question",
+        "D": "They had little interest in the topic"
+      },
+      "correct_answer": "D",
+      "question_type": "detail",
+      "explanation": "作者指出：'writing, in and of itself, simply didn't strike them as important'，说明学生对写作这个话题本身缺乏兴趣。"
+    },
+    {
+      "question_text": "What does the underlined word \"staggering\" in paragraph 3 mean?",
+      "options": {
+        "A": "Mixed",
+        "B": "Amazing",
+        "C": "Similar",
+        "D": "Disturbing"
+      },
+      "correct_answer": "B",
+      "question_type": "vocabulary",
+      "explanation": "根据上下文，学生们创作了10到20页的故事，角色拓宽了作者的视野并触动了他的心，说明结果是非常令人惊讶的（Amazing）。"
+    },
+    {
+      "question_text": "What does the author's experience show?",
+      "options": {
+        "A": "Teaching is learning",
+        "B": "Still waters run deep",
+        "C": "Knowledge is power",
+        "D": "Practice makes perfect"
+      },
+      "correct_answer": "A",
+      "question_type": "inference",
+      "explanation": "作者从最初相信写作是交流的工具，到最后从学生那里学到写作最强大的意义是连接人心、教会人们何为人类，说明教学相长（Teaching is learning）。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "thesis",
+      "pos": "n.",
+      "definition": "论点，毕业论文",
+      "cefr": "B2"
+    },
+    {
+      "word": "strike",
+      "pos": "v.",
+      "definition": "给...以深刻印象，觉得",
+      "cefr": "B2"
+    },
+    {
+      "word": "staggering",
+      "pos": "adj.",
+      "definition": "令人震惊的，令人难以置信的",
+      "cefr": "C1"
+    },
+    {
+      "word": "broaden",
+      "pos": "v.",
+      "definition": "拓宽，扩大",
+      "cefr": "B2"
+    },
+    {
+      "word": "significance",
+      "pos": "n.",
+      "definition": "意义，重要性",
+      "cefr": "B2"
+    },
+    {
+      "word": "genre",
+      "pos": "n.",
+      "definition": "体裁，类型",
+      "cefr": "B2"
+    },
+    {
+      "word": "persuasive",
+      "pos": "adj.",
+      "definition": "有说服力的",
+      "cefr": "B2"
+    },
+    {
+      "word": "narrative",
+      "pos": "n.",
+      "definition": "叙事，记叙文",
+      "cefr": "B2"
+    }
+  ],
+  "complex_sentences": [
+    {
+      "sentence": "I met a cowboy who saved his town, a strict father who demanded his son earn straight A's, and a modern-day Juliet who died of heartbreak after her parents rejected the love of her young life.",
+      "structure": "三个定语从句并列，修饰不同的名词",
+      "translation": "我遇到了一个拯救小镇的牛仔、一个要求儿子全拿A的严厉父亲，以及一个在父母拒绝她年轻时的爱情后死于心碎的现代版朱丽叶。"
+    },
+    {
+      "sentence": "I walked into class believing that writing is important as a means of communication.",
+      "structure": "动名词短语作伴随状语，that引导宾语从句",
+      "translation": "我带着写作是重要交流工具这一信念走进教室。"
+    },
+    {
+      "sentence": "The ability to connect people, to put us in another's skin, to teach us what it means to be human.",
+      "structure": "不定式短语并列作定语，what引导宾语从句",
+      "translation": "连接人们的能力，设身处地为他人着想的能力，教会我们何为人类的能力。"
+    }
+  ]
+}

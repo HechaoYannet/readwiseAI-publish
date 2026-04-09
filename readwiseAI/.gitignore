@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Data directories (runtime state – not version-controlled)
+data/checkpoints/
+data/results/
+data/tasks/
+data/sqlite/
+data/working/sessions/
+data/long_term/
+data/logs/
+data/users/
+data/request_index/
+
+
+# Pytest cache
+.pytest_cache/
+.coverage
+
+# Environment variables
+.env

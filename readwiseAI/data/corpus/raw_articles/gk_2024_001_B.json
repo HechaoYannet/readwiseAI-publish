@@ -1,0 +1,129 @@
+{
+  "id": "gk_2024_001_B",
+  "source": "2024新课标I卷",
+  "topic": "传统与现代融合",
+  "type": "真题",
+  "difficulty": "L3",
+  "genre": "narrative",
+  "word_count": 315,
+  "title": "Holistic Veterinary Medicine",
+  "section": "B",
+  "content": "\"I am not crazy,\" says Dr. William Farber, shortly after performing acupuncture (针灸) on a rabbit. \"I am ahead of my time.\" If he seems a little defensive, it might be because even some of his coworkers occasionally laugh at his unusual methods. But Farber is certain he'll have the last laugh. He's one of a small but growing number of American veterinarians (兽医) now practicing \"holistic\" medicine-combining traditional Western treatments with acupuncture, chiropractic (按摩疗法) and herbal medicine.\n\nFarber, a graduate of Colorado State University, started out as a more conventional veterinarian. He became interested in alternative treatments 20 years ago when he suffered from terrible back pain. He tried muscle-relaxing drugs but found little relief. Then he tried acupuncture, an ancient Chinese practice, and was amazed that he improved after two or three treatments. What worked on a veterinarian seemed likely to work on his patients. So, after studying the techniques for a couple of years, he began offering them to pets.\n\nLeigh Tindale's dog Charlie had a serious heart condition. After Charlie had a heart attack, Tindale says, she was prepared to put him to sleep, but Farber's treatments eased her dog's suffering so much that she was able to keep him alive for an additional five months. And Priscilla Dewing reports that her horse, Nappy, \"moves more easily and rides more comfortably\" after a chiropractic adjustment.\n\nFarber is certain that the holistic approach will grow more popular with time, and if the past is any indication, he may be right: Since 1982, membership in the American Holistic Veterinary Medical Association has grown from 30 to over 700. \"Sometimes it surprises me that it works so well,\" he says. \"I will do anything to help an animal. That's my job.\"",
+  "questions": [
+    {
+      "question_text": "What do some of Farber's coworkers think of him?",
+      "options": {
+        "A": "He's odd",
+        "B": "He's strict",
+        "C": "He's brave",
+        "D": "He's rude"
+      },
+      "correct_answer": "A",
+      "question_type": "detail",
+      "explanation": "文章提到：'even some of his coworkers occasionally laugh at his unusual methods'，说明同事们认为他古怪（odd）。"
+    },
+    {
+      "question_text": "Why did Farber decide to try acupuncture on pets?",
+      "options": {
+        "A": "He was trained in it at university",
+        "B": "He was inspired by another veterinarian",
+        "C": "He benefited from it as a patient",
+        "D": "He wanted to save money for pet owners"
+      },
+      "correct_answer": "C",
+      "question_type": "detail",
+      "explanation": "文章指出：Farber自己尝试针灸治疗后有好转，'What worked on a veterinarian seemed likely to work on his patients'，说明他作为病人从中受益后才决定用于宠物。"
+    },
+    {
+      "question_text": "What does paragraph 3 mainly talk about?",
+      "options": {
+        "A": "Steps of a chiropractic treatment",
+        "B": "The complexity of veterinarians' work",
+        "C": "Examples of rare animal diseases",
+        "D": "The effectiveness of holistic medicine"
+      },
+      "correct_answer": "D",
+      "question_type": "main_idea",
+      "explanation": "第三段通过两个具体案例（狗Charlie和马Nappy）说明整体医学的有效性（effectiveness）。"
+    },
+    {
+      "question_text": "Why does the author mention the American Holistic Veterinary Medical Association?",
+      "options": {
+        "A": "To prove Farber's point",
+        "B": "To emphasize its importance",
+        "C": "To praise veterinarians",
+        "D": "To advocate animal protection"
+      },
+      "correct_answer": "A",
+      "question_type": "inference",
+      "explanation": "提到协会会员从30增长到700+，是为了证明Farber的观点：整体医学方法会越来越受欢迎。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "acupuncture",
+      "pos": "n.",
+      "definition": "针灸",
+      "cefr": "C1"
+    },
+    {
+      "word": "holistic",
+      "pos": "adj.",
+      "definition": "整体的，全面的",
+      "cefr": "B2"
+    },
+    {
+      "word": "veterinarian",
+      "pos": "n.",
+      "definition": "兽医",
+      "cefr": "C1"
+    },
+    {
+      "word": "chiropractic",
+      "pos": "n.",
+      "definition": "按摩疗法",
+      "cefr": "C1"
+    },
+    {
+      "word": "herbal",
+      "pos": "adj.",
+      "definition": "草本的，草药的",
+      "cefr": "B2"
+    },
+    {
+      "word": "relief",
+      "pos": "n.",
+      "definition": "缓解，减轻",
+      "cefr": "B2"
+    },
+    {
+      "word": "adjustment",
+      "pos": "n.",
+      "definition": "调整，调节",
+      "cefr": "B2"
+    },
+    {
+      "word": "indication",
+      "pos": "n.",
+      "definition": "迹象，指示",
+      "cefr": "B2"
+    }
+  ],
+  "complex_sentences": [
+    {
+      "sentence": "He's one of a small but growing number of American veterinarians now practicing \"holistic\" medicine-combining traditional Western treatments with acupuncture, chiropractic and herbal medicine.",
+      "structure": "现在分词作定语，-ing形式修饰 veterinarians",
+      "translation": "他是美国越来越多采用'整体'医学的兽医之一，将传统西医治疗与针灸、按摩疗法和草药相结合。"
+    },
+    {
+      "sentence": "What worked on a veterinarian seemed likely to work on his patients.",
+      "structure": "What引导主语从句",
+      "translation": "对兽医有效的方法似乎也可能对他的病人有效。"
+    },
+    {
+      "sentence": "Since 1982, membership in the American Holistic Veterinary Medical Association has grown from 30 to over 700.",
+      "structure": "since + 时间，引导时间状语，现在完成时",
+      "translation": "自1982年以来，美国整体兽医医学协会的会员从30人增长到700多人。"
+    }
+  ]
+}
