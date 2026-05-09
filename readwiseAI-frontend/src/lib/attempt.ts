@@ -43,6 +43,6 @@ export async function pollAttemptResult(
   }
 
   throw new Error(
-    `Polling timeout for request_id=${requestId}: /api/result did not finish within ${timeoutMs}ms`,
+    `Polling timeout for request_id=${requestId}: /api/result/${requestId} did not finish within ${timeoutMs}ms`,
   );
 }
