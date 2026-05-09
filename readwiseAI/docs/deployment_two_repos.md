@@ -98,7 +98,7 @@ NEXT_PUBLIC_RESULT_POLL_TIMEOUT_MS=90000
 1. 从旧环境导出 `data` 目录并备份：
    ```bash
    # 在后端项目根目录执行（该目录下有 data/）
-   tar -czf readwise-data-backup-$(date +%F).tar.gz data
+   tar -czf readwise-data-backup-$(date +%Y%m%d).tar.gz data
    ```
 2. 将备份导入到新后端持久化卷（示例流程）：
    ```bash

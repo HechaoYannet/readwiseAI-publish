@@ -3,9 +3,6 @@ import { API_RETRY_TIMES, API_TIMEOUT_MS, RETRY_BACKOFF_BASE_MS } from "./config
 export type ApiMethod = "GET" | "POST" | "PUT" | "DELETE";
 
 const API_BASE_URL = (process.env.NEXT_PUBLIC_API_BASE_URL || "").replace(/\/+$/, "");
-if (!API_BASE_URL) {
-  throw new Error("NEXT_PUBLIC_API_BASE_URL is required (e.g. https://your-backend-domain.example.com)");
-}
 
 const RETRYABLE_STATUS = new Set([408, 429, 500, 502, 503, 504]);
 
@@ -26,6 +23,11 @@ function sleep(ms: number): Promise<void> {
 
 function buildUrl(path: string): string {
   if (path.startsWith("http://") || path.startsWith("https://")) return path;
+  if (!API_BASE_URL) {
+    throw new Error(
+      "NEXT_PUBLIC_API_BASE_URL is required before calling API helpers (e.g. https://your-backend-domain.example.com)",
+    );
+  }
   if (!path.startsWith("/")) {
     throw new Error(`API path must start with '/': ${path}`);
   }
