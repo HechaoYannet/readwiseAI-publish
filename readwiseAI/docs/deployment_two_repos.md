@@ -95,8 +95,17 @@ NEXT_PUBLIC_RESULT_POLL_TIMEOUT_MS=90000
 
 ## 5. 数据迁移与切流
 
-1. 从旧环境导出 `data` 目录并备份
-2. 导入到新后端持久化卷
+1. 从旧环境导出 `data` 目录并备份：
+   ```bash
+   tar -czf readwise-data-backup-$(date +%F).tar.gz data
+   ```
+2. 将备份导入到新后端持久化卷（示例流程）：
+   ```bash
+   # 在新环境容器内（或挂载卷的运维机）执行
+   mkdir -p /app/data
+   tar -xzf readwise-data-backup-YYYY-MM-DD.tar.gz -C /app
+   ```
+   目标是恢复以下目录：`/app/data/users`、`/app/data/request_index`、`/app/data/invites`
 3. 内部账号灰度验证完整链路
 4. 将前端环境变量切到新后端域名
 5. DNS 切流后观察，再下线旧环境
@@ -129,4 +138,3 @@ NEXT_PUBLIC_RESULT_POLL_TIMEOUT_MS=90000
 2. 前端切换后端目标地址
 3. 全量切流
 4. 收尾文档与运维巡检规则
-

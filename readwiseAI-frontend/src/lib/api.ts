@@ -57,6 +57,7 @@ export async function apiRequest<T>(
 ): Promise<T> {
   const retries = options?.retryTimes ?? API_RETRY_TIMES;
   const url = buildUrl(path);
+  let lastError: unknown;
 
   for (let attempt = 0; attempt <= retries; attempt += 1) {
     try {
@@ -84,13 +85,14 @@ export async function apiRequest<T>(
       }
       return body as T;
     } catch (error) {
+      lastError = error;
       const isLast = attempt >= retries;
       if (isLast) throw error;
       await sleep(400 * (attempt + 1));
     }
   }
 
-  throw new Error("Unreachable");
+  throw lastError ?? new Error("Request failed");
 }
 
 export function apiGet<T>(path: string, token?: string): Promise<T> {
@@ -108,4 +110,3 @@ export function apiPut<T>(path: string, body?: unknown, token?: string): Promise
 export function apiDelete<T>(path: string, token?: string): Promise<T> {
   return apiRequest<T>("DELETE", path, { token });
 }
-

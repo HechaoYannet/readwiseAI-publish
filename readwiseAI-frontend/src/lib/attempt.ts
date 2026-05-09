@@ -44,6 +44,7 @@ export async function pollAttemptResult(
     await sleep(intervalMs);
   }
 
-  throw new Error("Polling timeout: /api/result did not finish in time");
+  throw new Error(
+    `Polling timeout for request_id=${requestId}: /api/result did not finish within ${timeoutMs}ms`,
+  );
 }
-
