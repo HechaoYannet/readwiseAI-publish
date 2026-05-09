@@ -439,6 +439,16 @@ python admin.py system backup
 | `OPENAI_API_KEY` | OpenAI/DeepSeek API Key | 无（LLM 调用将失败） |
 | `OPENAI_BASE_URL` | API 地址（支持代理/国内节点） | OpenAI 官方 URL |
 | `OPENAI_MODEL` | 使用的模型名 | `gpt-4o` |
+| `CORS_ALLOWED_ORIGINS` | 允许跨域来源（逗号分隔） | `http://localhost:3000` |
+| `CORS_ALLOW_CREDENTIALS` | 是否允许携带凭证跨域 | `true` |
+
+---
+
+## 双仓库部署（Vercel + Railway）
+
+前后端拆分部署改造说明与切流清单见：
+
+📄 **[docs/deployment_two_repos.md](docs/deployment_two_repos.md)**
 
 ---
 

@@ -29,8 +29,22 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
+## Environment Variables
+
+Create `.env.local`:
+
+```bash
+NEXT_PUBLIC_API_BASE_URL=http://localhost:8000
+NEXT_PUBLIC_API_TIMEOUT_MS=15000
+NEXT_PUBLIC_API_RETRY_TIMES=2
+NEXT_PUBLIC_RESULT_POLL_INTERVAL_MS=2000
+NEXT_PUBLIC_RESULT_POLL_TIMEOUT_MS=90000
+```
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+For split-repo deployment, set `NEXT_PUBLIC_API_BASE_URL` to your backend HTTPS domain (Railway or equivalent) and connect this frontend repo to Vercel.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

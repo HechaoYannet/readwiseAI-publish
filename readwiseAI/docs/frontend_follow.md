@@ -31,7 +31,7 @@
 
 | 项目       | 值                                  |
 |-----------|-------------------------------------|
-| 基础 URL   | `http://localhost:8000`             |
+| 基础 URL   | `NEXT_PUBLIC_API_BASE_URL`（开发环境可用 `http://localhost:8000`） |
 | API 前缀   | `/api`                              |
 | 内部前缀   | `/internal`                         |
 | 数据格式   | `application/json`                  |
@@ -890,6 +890,13 @@ await post('/api/attempt', {
 | `OPENAI_API_KEY` | OpenAI API Key | 无 |
 | `OPENAI_BASE_URL` | 自定义 API 地址（如代理） | OpenAI 官方地址 |
 | `OPENAI_MODEL` | 使用的模型名 | `gpt-4o` |
+| `CORS_ALLOWED_ORIGINS` | 后端允许跨域来源（逗号分隔） | `http://localhost:3000` |
+| `CORS_ALLOW_CREDENTIALS` | 后端是否允许跨域凭证 | `true` |
+| `NEXT_PUBLIC_API_BASE_URL` | 前端请求后端基础地址 | 无（必须设置） |
+| `NEXT_PUBLIC_API_TIMEOUT_MS` | 前端请求超时 | `15000` |
+| `NEXT_PUBLIC_API_RETRY_TIMES` | 前端重试次数 | `2` |
+| `NEXT_PUBLIC_RESULT_POLL_INTERVAL_MS` | `/api/result` 轮询间隔 | `2000` |
+| `NEXT_PUBLIC_RESULT_POLL_TIMEOUT_MS` | `/api/result` 轮询总超时 | `90000` |
 
 ### 启动开发服务器
 
