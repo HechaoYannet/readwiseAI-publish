@@ -1,8 +1,8 @@
+import { API_RETRY_TIMES, API_TIMEOUT_MS, RETRY_BACKOFF_BASE_MS } from "./config";
+
 export type ApiMethod = "GET" | "POST" | "PUT" | "DELETE";
 
 const API_BASE_URL = (process.env.NEXT_PUBLIC_API_BASE_URL || "").replace(/\/+$/, "");
-const API_TIMEOUT_MS = Number(process.env.NEXT_PUBLIC_API_TIMEOUT_MS ?? 15000);
-const API_RETRY_TIMES = Number(process.env.NEXT_PUBLIC_API_RETRY_TIMES ?? 2);
 
 const RETRYABLE_STATUS = new Set([408, 429, 500, 502, 503, 504]);
 
@@ -78,7 +78,7 @@ export async function apiRequest<T>(
       const body = await parseBody(response);
       if (!response.ok) {
         if (attempt < retries && RETRYABLE_STATUS.has(response.status)) {
-          await sleep(400 * (attempt + 1));
+          await sleep(RETRY_BACKOFF_BASE_MS * (attempt + 1));
           continue;
         }
         throw new ApiError(`Request failed: ${response.status}`, response.status, body);
@@ -87,8 +87,9 @@ export async function apiRequest<T>(
     } catch (error) {
       lastError = error;
       const isLast = attempt >= retries;
-      if (isLast) throw error;
-      await sleep(400 * (attempt + 1));
+      if (!isLast) {
+        await sleep(RETRY_BACKOFF_BASE_MS * (attempt + 1));
+      }
     }
   }
 

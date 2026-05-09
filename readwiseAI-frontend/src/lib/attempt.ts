@@ -1,7 +1,5 @@
 import { apiGet, apiPost } from "./api";
-
-const POLL_INTERVAL_MS = Number(process.env.NEXT_PUBLIC_RESULT_POLL_INTERVAL_MS ?? 2000);
-const POLL_TIMEOUT_MS = Number(process.env.NEXT_PUBLIC_RESULT_POLL_TIMEOUT_MS ?? 90000);
+import { RESULT_POLL_INTERVAL_MS, RESULT_POLL_TIMEOUT_MS } from "./config";
 
 export type AttemptSubmitResponse = {
   request_id: string;
@@ -34,8 +32,8 @@ export async function pollAttemptResult(
   token: string,
   options?: { intervalMs?: number; timeoutMs?: number },
 ): Promise<AttemptResultResponse> {
-  const intervalMs = options?.intervalMs ?? POLL_INTERVAL_MS;
-  const timeoutMs = options?.timeoutMs ?? POLL_TIMEOUT_MS;
+  const intervalMs = options?.intervalMs ?? RESULT_POLL_INTERVAL_MS;
+  const timeoutMs = options?.timeoutMs ?? RESULT_POLL_TIMEOUT_MS;
   const deadline = Date.now() + timeoutMs;
 
   while (Date.now() < deadline) {
